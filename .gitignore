@@ -161,3 +161,6 @@ cython_debug/
 
 
 docs
+dataset
+.vscode
+.DS_Store
